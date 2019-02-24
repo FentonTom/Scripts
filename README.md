@@ -1,0 +1,2 @@
+# Scripts
+For short sripts
